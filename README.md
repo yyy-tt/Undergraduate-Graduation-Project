@@ -19,5 +19,5 @@
 ## **_The image processing results are shown as below:_**
 
 <div align=center>
-<img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/3c7d9f0e-0fa6-42d3-af2c-7b6bc0e16ac8"  />
+<img src=""D:\Desktop\1.png""  />
 </div>
