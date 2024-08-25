@@ -19,5 +19,5 @@
 ## **_The image processing results are shown as below:_**
 
 <div align=center>
-<img src=""D:\Desktop\1.png""  />
+<img src="D:\Desktop\1.png"/>
 </div>
