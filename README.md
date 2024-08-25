@@ -7,7 +7,7 @@
 ## **_Below are the relevant files:_**
 
 |folder_name/file_name|content&function|
-|------|-----|
+|-|-|
 |_StickFigure_|**Preliminary image processing, extracting the outline of the human subjects.**|
 |_final_project_|**Integrate all programs to form a complete workflow: input a portrait photo, automatically extract the outline, take points, plan the route, and control the robotic arm to complete the painting.**|
 |_img2points_|**Extract the outline, select points, sort them, determine the brushstrokes, and finalize the robotic arm's path.**|
