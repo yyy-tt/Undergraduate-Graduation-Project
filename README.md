@@ -3,7 +3,7 @@
 
 
 
-**_Below are the relevant files:_**
+## **_Below are the relevant files:_**
 
 |folder_name/file_name|content&function|
 |------|-----|
@@ -15,7 +15,7 @@
 |_Project proposal.pdf_|**Research Proposal, mainly introducing the referenced articles and the current drawing or writing robots on the market.**|
 |_opening_pre.pptx_|**The opening presentation PPT**|
 
-**_The image processing results are shown as below:_**
+## **_The image processing results are shown as below:_**
 
 <div align=center>
 <img src="https://github.com/anOrangeCat1/projects_sustech/assets/99580008/3c7d9f0e-0fa6-42d3-af2c-7b6bc0e16ac8"  />
